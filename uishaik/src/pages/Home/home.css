@@ -1,0 +1,91 @@
+/* 
+ #home-container {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-family: 'Albert Sans', Arial, Helvetica, sans-serif; 
+} 
+
+
+#style1 {
+    background-color: #1F405A;
+    padding: 2rem;
+    width: max-content;
+    max-width: 30%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#style1 h2 {
+    color: white;
+    font-size: 1.3rem;
+    margin-bottom: 11rem;
+    margin-right: 20px;
+    
+}
+
+
+#style1 img {
+    width: 90%;
+    height: auto;
+}
+
+
+#style2 {
+    flex-grow: 1;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+
+#style3 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.9rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+
+#style3 h1 {
+    color: black;
+    font-size: 1.90rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+    
+}
+
+#style1 h3{
+    color:white;
+    font-size: 3rem;
+}
+
+
+#style3 p {
+    color: #666;
+    font-size: 1.0rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+
+.login-button {
+    max-width: 220px; 
+    background-color: #1e3a5f;
+    color: white;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 9px;
+    margin-bottom: 2rem;
+    font-family: 'Albert Sans', Arial, Helvetica, sans-serif; 
+    margin-left: 70px;
+}   */
